@@ -1,0 +1,6 @@
+{
+  "name": "cache-keeper",
+  "version": "0.1.0",
+  "description": "Compacts a big idle session just before its 60-minute prompt cache expires, and shows cache time left.",
+  "types": "./types/index.d.ts"
+}
